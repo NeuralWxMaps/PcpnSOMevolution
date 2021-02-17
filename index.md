@@ -97,6 +97,8 @@ Western United States
       <td><img src=""></td>
       <td><img src=""></td>
     </tr>
+  <hr>
+  
 Eastern United States
 <hr>
   

@@ -35,6 +35,26 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/108226862-8034a200-70fa-11eb-849b-35f2a8465355.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/108226863-8034a200-70fa-11eb-810a-9ae38f98114e.png"></td>
     </tr>
-Documenting the upper air patterns, jet level winds and precipitation patterns that occurred during January 2021.
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+Western United States
 <hr>
 

@@ -4,10 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
-    <center>Evolution of the Precipitation Neural Network
+    <center>The Weekly Evolution of Three Precipitation Neural Network Nodes
   <hr>
-
-
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -83,3 +81,23 @@
 Western United States
 <hr>
 
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Pattern 1000</th>
+      <th>Pattern 2000</th>
+      <th>Pattern 3000</th>
+    </tr>
+    <tr>
+      <td><img src="" width="400"></td>
+      <td><img src="" width="400"></td>
+      <td><img src="" width="400"></td>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+Eastern United States
+<hr>
+  
+  

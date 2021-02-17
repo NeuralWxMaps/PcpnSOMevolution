@@ -88,12 +88,12 @@ Western United States
       <th>Pattern 3000</th>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/108250008-fe04a780-7112-11eb-9696-664009ba21c9.png" width="400"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/108250029-00670180-7113-11eb-91fd-a98967d1fc2d.png" width="400"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/108250003-fd6c1100-7112-11eb-8759-257dbbed1f43.png" width="400"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/108250006-fe04a780-7112-11eb-9ec6-36aad4d0230b.png" width="400"></td>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/108250029-00670180-7113-11eb-91fd-a98967d1fc2d.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/108250008-fe04a780-7112-11eb-9696-664009ba21c9.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/108250009-fe04a780-7112-11eb-940c-a006df93e00a.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/108250010-fe04a780-7112-11eb-87fc-16df0305a206.png"></td>
     </tr>

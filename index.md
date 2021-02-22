@@ -86,9 +86,6 @@
 Western United States
 <hr>
 
-![1000e](https://user-images.githubusercontent.com/75145898/108770854-152f0500-7518-11eb-96de-dc3e8df404b8.png)
-![2000e](https://user-images.githubusercontent.com/75145898/108770859-15c79b80-7518-11eb-81a9-8132f430f5db.png)
-![3000e](https://user-images.githubusercontent.com/75145898/108770863-15c79b80-7518-11eb-97f6-0492f9953982.png)
 
 
 <table border="1" cellpadding="1" cellspacing="1">

@@ -78,8 +78,18 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/108243621-84b58680-710b-11eb-90a7-df90ff349f8e.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/108243623-854e1d00-710b-11eb-8362-1bc542b4607b.png"></td>
     </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/108770856-152f0500-7518-11eb-88bc-b799903262ae.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/108770861-15c79b80-7518-11eb-8f78-d9cd2dcc858c.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/108770864-16603200-7518-11eb-91ad-b1191d97e2be.png"></td>
+    </tr>
 Western United States
 <hr>
+
+![1000e](https://user-images.githubusercontent.com/75145898/108770854-152f0500-7518-11eb-96de-dc3e8df404b8.png)
+![2000e](https://user-images.githubusercontent.com/75145898/108770859-15c79b80-7518-11eb-81a9-8132f430f5db.png)
+![3000e](https://user-images.githubusercontent.com/75145898/108770863-15c79b80-7518-11eb-97f6-0492f9953982.png)
+
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -151,6 +161,11 @@ Western United States
       <td><img src="https://user-images.githubusercontent.com/75145898/108263619-bb979680-7123-11eb-81f2-1505582b6d07.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/108263621-bb979680-7123-11eb-8d21-a681b03205bd.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/108263623-bc302d00-7123-11eb-9a3c-82223cd0085a.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/108770854-152f0500-7518-11eb-96de-dc3e8df404b8.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/108770859-15c79b80-7518-11eb-81a9-8132f430f5db.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/108770863-15c79b80-7518-11eb-97f6-0492f9953982.png"></td>
     </tr>
   <hr>
   

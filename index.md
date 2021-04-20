@@ -201,6 +201,11 @@ Western United States
       <td><img src="https://user-images.githubusercontent.com/75145898/111381532-72c3f680-866b-11eb-8bec-75d179f8b446.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/111381548-78214100-866b-11eb-81e9-c6176c20cd93.png"></td>
     </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/115428201-63325300-a1bf-11eb-9d28-31d37e87bd1f.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/115428223-69c0ca80-a1bf-11eb-9d87-c02c8a360241.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/115428245-704f4200-a1bf-11eb-9979-ae9719d81409.png"></td>
+    </tr>
   <hr>
   
 Eastern United States

@@ -109,9 +109,9 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/115433429-cc689500-a1c4-11eb-90cf-e10badfc45fb.png"></td>
     </tr>
     <tr>
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/115434353-d63ec800-a1c5-11eb-9923-0070453bc2d1.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/115434394-e060c680-a1c5-11eb-88b3-d23ca2e2fd4b.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/115434429-ea82c500-a1c5-11eb-9664-7190209144fa.png"></td>
     </tr>
     <tr>
       <td><img src=""></td>

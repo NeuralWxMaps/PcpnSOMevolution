@@ -98,6 +98,12 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/111381417-4f00b080-866b-11eb-91d8-9e188af7c1ee.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/111381456-5c1d9f80-866b-11eb-888a-702a3967d4ec.png"></td>
     </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/115426597-e2bf2280-a1bd-11eb-97cc-8b918a09fa1c.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/115426647-ee124e00-a1bd-11eb-8ebe-453374be83b8.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/115426693-fcf90080-a1bd-11eb-9a35-c92a67321f64.png"></td>
+    </tr>
+
 
 Western United States
 <hr>
